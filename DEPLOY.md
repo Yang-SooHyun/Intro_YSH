@@ -100,7 +100,7 @@ sitemap.xml         검색엔진용
 
 ## 6. 참고
 
-- **공개용 CV**: 원본 4쪽 중 REFERENCES(4쪽)를 제외한 3쪽본이 들어 있다.
+- **공개용 CV**: REFERENCES 부분만 제거한 4쪽본이 들어 있다 (군복무 항목은 유지).
   교수님 6분의 개인 이메일·직통 전화번호가 담긴 페이지라 웹 공개 대상이 아니다.
   PDF 작성자 메타데이터도 함께 정리했다.
 - 폰트는 Google Fonts CDN(Newsreader / Inter / IBM Plex Mono)에서 불러온다. 오프라인에선 시스템 폰트로 대체된다.
